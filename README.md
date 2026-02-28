@@ -14,8 +14,8 @@ The application computes polynomial values and derivatives, performs iterative r
 - Test case generation for multiple polynomial degrees and initial points
 
 ## Project Structure
-src/ MATLAB source code
-report/ Project report (PDF)
+- src/ MATLAB source code
+- report/ Project report (PDF)
 
 
 ## Main Components
