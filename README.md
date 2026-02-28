@@ -17,7 +17,6 @@ The application computes polynomial values and derivatives, performs iterative r
 - src/ MATLAB source code
 - report/ Project report (PDF)
 
-
 ## Main Components
 
 - `legendre_polynomial.m` – computes Legendre polynomial and derivative  
@@ -29,18 +28,6 @@ The application computes polynomial values and derivatives, performs iterative r
 
 - MATLAB
 - Optimization Toolbox (for `fsolve`)
-
-## Scientific Background
-
-Newton’s method iteratively updates the complex estimate:
-
-z_{n+1} = z_n − w_n(z) / w'_n(z)
-
-where \( w_n(z) \) is the Legendre polynomial and \( w'_n(z) \) its derivative.
-
-The method converges when:
-
-|z_{n+1} − z_n| < ε
 
 ## Report
 
