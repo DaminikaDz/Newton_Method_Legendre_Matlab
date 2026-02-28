@@ -46,4 +46,4 @@ The method converges when:
 
 See the full project report:
 
-`report/Newton_Legendre_Report.pdf`
+[Newton Method for Legendre Polynomial Roots – Report](report/Sprawozdanie1.pdf)
